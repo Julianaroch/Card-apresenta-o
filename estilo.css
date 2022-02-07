@@ -28,10 +28,11 @@ h1{
 }
 h2{
     text-align: center;
-    width: 80%;
+    width: 100%;
     height: 25px;
-    border: 5px;
+    border-radius: 20px;
     background: rgb(49, 48, 48);
+    
 }
 #card1{
     width: 300px;
